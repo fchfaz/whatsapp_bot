@@ -1,4 +1,17 @@
-# Petunjuk Penggunan
+# Whatsapp chatbot
+
+Whatsapp chatbot pakai ChatGPT dari OpenAI.
+
+## Requirements
+- Telah membuat akun OpenAI: https://platform.openai.com/
+- Download dan install Git di https://git-scm.com/downloads
+- Download dan install Node.JS di https://nodejs.org/en/download
+- Download dan install VS Code di https://code.visualstudio.com/download
+- Clone repo ini atau bisa unduh file zip nya
+
+
+
+## Petunjuk Penggunan
 1. Clone repository ini
 
 ```powershell
