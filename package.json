@@ -4,8 +4,8 @@
   "description": "WhatsApp OpenAI Bot",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "test": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Fachry Faizal",
   "license": "ISC",
